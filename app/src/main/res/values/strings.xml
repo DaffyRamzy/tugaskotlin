@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">tugaskotlin</string>
+    <string-array name="gender">
+        <item>Laki-Laki</item>
+        <item>Perempuan</item>
+    </string-array>
+    <string-array name="jurusan">
+        <item>S1 Informatika</item>
+        <item>S1 Sistem Informasi</item>
+        <item>D3 Sistem Informasi</item>
+    </string-array>
+</resources>
